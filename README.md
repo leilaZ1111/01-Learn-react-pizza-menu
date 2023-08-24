@@ -21,3 +21,10 @@ The features of React that this project aims to learn are:
 - Destructuring props
 - React fragments
 - Setting classes and text conditionally
+
+<br>
+<div align="center">
+
+![Preview](Fast-react-pizza-project.png)
+
+</div>
