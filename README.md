@@ -1,4 +1,4 @@
-# React Pizza Project
+# "FAST REACT PIZZA CO" Project
 
 - `Repository:` 01-Learn-react-pizza-menu
 - `Type of Challenge:` learning
